@@ -1,6 +1,6 @@
 ## Grafana Finance Datasource
 
-Fetches data from the Quandl API and maps the data to a timeseries. This is all done in the browser without needing an additional backend.
+Fetches data from the Nasdaq API and maps the data to a timeseries. This is a browser-based (front-end) data source.
 
 The query format is as follows:
 
